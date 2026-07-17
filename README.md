@@ -189,7 +189,10 @@ The notebook includes:
 - Statistical Summary
 - Interactive Visualizations
 - Business Insights
-- Final Conclusions
+- Final Conclusions <img width="215" height="239" alt="image" src="https://github.com/user-attachments/assets/96e50644-5fda-4de8-aaed-9cb1fcfd9478" />
+<img width="196" height="158" alt="image" src="https://github.com/user-attachments/assets/95b6d5f5-d8b7-4d39-b8c8-5ef0e045aaec" />
+
+
 
 ---
 
